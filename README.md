@@ -2,7 +2,7 @@
 
 Pytorch implementation of our method for weakly supervised semantic matching.
 
-Contact: Yun-Chun Chen (ycchen918 at citi dot sinica dot edu dot tw) and Wei-Chih Hung (whung8 at ucmerced dot edu)
+Contact: Yun-Chun Chen (ycchen918 at citi dot sinica dot edu dot tw)
 
 Please cite our paper if you find it useful for your research.
 
