@@ -43,8 +43,8 @@ sh train.sh
 ```
 
 ## Related Implementation and Dataset
-* Rocco et al. Convolutional Neural Network Architecture for Geometric Matching. In CVPR, 2017. [project](https://www.di.ens.fr/willow/research/cnngeometric/) [paper](https://arxiv.org/pdf/1703.05593.pdf) [code](https://github.com/ignacio-rocco/cnngeometric_pytorch)
-* Rocco et al. End-to-End Weakly-Supervised Semantic Alignment. In CVPR 2018. [project](https://www.di.ens.fr/willow/research/weakalign/) [paper](https://arxiv.org/pdf/1712.06861.pdf) [code](https://github.com/ignacio-rocco/weakalign)
+* Rocco et al. Convolutional Neural Network Architecture for Geometric Matching. In CVPR, 2017. [[project]](https://www.di.ens.fr/willow/research/cnngeometric/) [[paper]](https://arxiv.org/pdf/1703.05593.pdf) [[code]](https://github.com/ignacio-rocco/cnngeometric_pytorch)
+* Rocco et al. End-to-End Weakly-Supervised Semantic Alignment. In CVPR 2018. [[project]](https://www.di.ens.fr/willow/research/weakalign/) [[paper]](https://arxiv.org/pdf/1712.06861.pdf) [[code]](https://github.com/ignacio-rocco/weakalign)
 
 ## Acknowledgment
 This code is heavily borrowed from [weakalign](https://github.com/ignacio-rocco/weakalign).
